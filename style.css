@@ -11,6 +11,11 @@
   height: 90vh;
 }
 
+.images-size {
+  height: 30px;
+  width: 120px;
+}
+
 /* .course-img {
   height: 150px;
   max-width: 100%;
