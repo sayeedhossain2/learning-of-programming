@@ -2,15 +2,16 @@
   font-family: "Poppins", sans-serif;
 }
 
+.opacity-bg {
+  filter: brightness(50%);
+}
+
 .height-banner {
   width: 100%;
   height: 90vh;
 }
 
-/* @media only screen and(max-width:576px) {
-  
+/* .course-img {
+  height: 150px;
+  max-width: 100%;
 } */
-
-.opacity-bg {
-  filter: brightness(50%);
-}
